@@ -1,0 +1,8 @@
+.tachado {
+    text-decoration: line-through;
+    color: grey;
+}
+
+li {
+    cursor: pointer;
+}
